@@ -9,5 +9,6 @@ Find out the weather in real time anywhere in the world!
 - MVC
 - Programmatic UI
 - API
-![Simulator Screenshot - iPhone 14 Pro Max - 2024-06-22 at 18 56 24](https://github.com/MaksimIsAvailable/Clima/assets/162634880/d45af110-4358-4523-b8c2-5084e122a496)
-![Simulator Screenshot - iPhone 14 Pro Max - 2024-06-22 at 18 56 49](https://github.com/MaksimIsAvailable/Clima/assets/162634880/2a84b580-72ad-4a69-b70b-dee10fdc215b)
+
+![Simulator Screenshot - iPhone 14 Pro Max - 2024-06-22 at 18 56 24](https://github.com/MaksimIsAvailable/Clima/assets/162634880/54dce6de-2f98-4127-8377-99d446901276)
+![Simulator Screenshot - iPhone 14 Pro Max - 2024-06-22 at 18 56 49](https://github.com/MaksimIsAvailable/Clima/assets/162634880/c91ca907-cae6-46dc-a052-6024f03d8a13)
