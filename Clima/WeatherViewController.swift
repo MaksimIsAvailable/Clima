@@ -139,6 +139,7 @@ class WeatherViewController: UIViewController {
         locationManager.requestWhenInUseAuthorization()
         locationManager.requestLocation()
     }
+    
     // MARK: - Actions
     
     @objc func searchPressed(_ sender: UIButton) {
@@ -148,7 +149,6 @@ class WeatherViewController: UIViewController {
         locationManager.requestLocation()
     }
     
-
     // MARK: - Setup Views
     private func setViews() {
         view.addSubview(backgroundImageView)
@@ -216,7 +216,6 @@ extension WeatherViewController: CLLocationManagerDelegate {
         print(error)
     }
 }
-
 //MARK: - WeatherManagerDelegate
 extension WeatherViewController: WeatherManagerDelegate {
     
